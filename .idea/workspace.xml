@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="lab9:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="de04a518-63d6-4fb3-aa8c-035c2878c497" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab9.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lab9.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lab9_war_exploded/WEB-INF/ads.dat" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/lab9_war_exploded/WEB-INF/ads.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lab9_war_exploded/static/footer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/lab9_war_exploded/static/footer.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lab9_war_exploded/static/header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/lab9_war_exploded/static/header.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entity/ChatMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/ChatMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entity/ChatUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/ChatUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LabaPacks/Ad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LabaPacks/Ad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LabaPacks/AdList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LabaPacks/AdList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LabaPacks/AdListHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LabaPacks/AdListHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LabaPacks/Identifiable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LabaPacks/Identifiable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LabaPacks/ListOfIdentifiables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LabaPacks/ListOfIdentifiables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LabaPacks/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LabaPacks/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LabaPacks/UserExistsException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LabaPacks/UserExistsException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LabaPacks/UserList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LabaPacks/UserList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LabaPacks/UserListHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LabaPacks/UserListHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LabaServlets/StartupServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LabaServlets/StartupServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LabaTags/AddUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LabaTags/AddUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LabaTags/DeleteAd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LabaTags/DeleteAd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LabaTags/GetAds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LabaTags/GetAds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LabaTags/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LabaTags/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LabaTags/NewType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LabaTags/NewType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LabaTags/UpdateAd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LabaTags/UpdateAd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/im.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/footer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/static/footer.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/static/header.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1sleH3vb8h5ZMNFydArpk40vyHJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 7.0.109" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.109" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8081/lab9_war_exploded/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="lab9:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/lab9_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="24bae160-2d9b-4b19-89e0-b02c2945052c" />
+        <option name="HTTP_PORT" value="8081" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50912" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="lab9:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de04a518-63d6-4fb3-aa8c-035c2878c497" name="Default Changelist" comment="" />
+      <created>1621451516324</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621451516324</updated>
+      <workItem from="1621451521152" duration="1943000" />
+      <workItem from="1621503875321" duration="224000" />
+      <workItem from="1621504313083" duration="2798000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
